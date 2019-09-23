@@ -1,0 +1,5 @@
+./flatmap.go
+./paths.go
+./single_attr_body.go
+./values.go
+./values_equiv.go

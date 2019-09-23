@@ -1,0 +1,8 @@
+./block_labels.go
+./decode.go
+./doc.go
+./gob.go
+./public.go
+./schema.go
+./spec.go
+./variables.go

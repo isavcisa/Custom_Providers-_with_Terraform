@@ -1,0 +1,4 @@
+./friendly_host.go
+./module.go
+./regsrc.go
+./terraform_provider.go

@@ -1,0 +1,16 @@
+./apic.go
+./converter.go
+./cty_funcs.go
+./decode.go
+./emitterc.go
+./encode.go
+./error.go
+./implied_type.go
+./parserc.go
+./readerc.go
+./resolve.go
+./scannerc.go
+./writerc.go
+./yaml.go
+./yamlh.go
+./yamlprivateh.go

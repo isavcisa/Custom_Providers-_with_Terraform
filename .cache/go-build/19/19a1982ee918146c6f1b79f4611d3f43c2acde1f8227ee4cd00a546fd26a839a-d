@@ -1,0 +1,7 @@
+./all_null.go
+./compatible.go
+./doc.go
+./lcs.go
+./normalize_obj.go
+./objchange.go
+./plan_valid.go

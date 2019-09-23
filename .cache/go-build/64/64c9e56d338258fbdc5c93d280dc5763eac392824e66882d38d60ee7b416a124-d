@@ -1,0 +1,14 @@
+./diagnostics.go
+./doc.go
+./file.go
+./marshal_equal.go
+./read.go
+./version0.go
+./version1.go
+./version1_upgrade.go
+./version2.go
+./version2_upgrade.go
+./version3.go
+./version3_upgrade.go
+./version4.go
+./write.go

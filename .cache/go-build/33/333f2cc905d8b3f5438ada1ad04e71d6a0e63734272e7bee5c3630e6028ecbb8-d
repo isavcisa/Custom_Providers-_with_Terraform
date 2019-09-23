@@ -1,0 +1,9 @@
+./module.go
+./module_list.go
+./module_provider.go
+./module_versions.go
+./pagination.go
+./provider.go
+./provider_list.go
+./redirect.go
+./terraform_provider.go

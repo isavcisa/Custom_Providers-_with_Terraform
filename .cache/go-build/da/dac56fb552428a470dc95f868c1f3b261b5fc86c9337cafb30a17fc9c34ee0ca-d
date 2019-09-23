@@ -1,0 +1,6 @@
+./data.go
+./doc.go
+./eval.go
+./functions.go
+./references.go
+./scope.go

@@ -1,0 +1,8 @@
+./buffer.go
+./doc.go
+./json.go
+./jsonfloat.go
+./media.go
+./params.go
+./resumable.go
+./send.go

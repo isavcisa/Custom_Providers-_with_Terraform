@@ -1,0 +1,4 @@
+./dependencies.go
+./doc.go
+./module.go
+./provider.go

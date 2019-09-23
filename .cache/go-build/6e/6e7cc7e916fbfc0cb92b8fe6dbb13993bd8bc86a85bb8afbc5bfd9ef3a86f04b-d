@@ -1,0 +1,14 @@
+./arithmetic.go
+./arithmetic_op.go
+./ast.go
+./call.go
+./conditional.go
+./index.go
+./literal.go
+./output.go
+./scope.go
+./stack.go
+./type_string.go
+./unknown.go
+./variable_access.go
+./variables_helper.go

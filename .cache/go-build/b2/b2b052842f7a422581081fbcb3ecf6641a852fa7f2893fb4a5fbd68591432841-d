@@ -1,0 +1,11 @@
+./error.go
+./find.go
+./get.go
+./get_cache.go
+./hashicorp.go
+./meta.go
+./meta_set.go
+./requirements.go
+./signature.go
+./version.go
+./version_set.go
